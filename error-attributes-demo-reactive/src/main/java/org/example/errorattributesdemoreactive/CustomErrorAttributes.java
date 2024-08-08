@@ -17,6 +17,7 @@ public class CustomErrorAttributes extends DefaultErrorAttributes {
         final Map<String, Object> errorAttributes = super.getErrorAttributes(request, options);
 
         log.info("ErrorAttributes: {}", errorAttributes);
+        log.info("Options: {}", options.getIncludes());
 
         return errorAttributes;
     }
