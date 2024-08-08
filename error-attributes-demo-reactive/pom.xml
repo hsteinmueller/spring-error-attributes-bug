@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.3.1</version>
+        <version>3.3.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
@@ -14,7 +14,7 @@
     <artifactId>error-attributes-demo-reactive</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>error-attributes-demo-reactive</name>
-    <description>error-attributes-demo</description>
+    <description>error-attributes-demo-reactive</description>
 
     <properties>
         <java.version>21</java.version>

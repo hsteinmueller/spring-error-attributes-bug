@@ -1,4 +1,4 @@
-package org.example.errorattributesdemo;
+package org.example.errorattributesdemoimperative;
 
 import org.springframework.boot.web.error.ErrorAttributeOptions;
 import org.springframework.boot.web.servlet.error.DefaultErrorAttributes;

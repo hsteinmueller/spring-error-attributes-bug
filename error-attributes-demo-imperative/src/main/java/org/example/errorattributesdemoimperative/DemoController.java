@@ -1,4 +1,4 @@
-package org.example.errorattributesdemo;
+package org.example.errorattributesdemoimperative;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

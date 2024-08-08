@@ -1,4 +1,4 @@
-package org.example.errorattributesdemo;
+package org.example.errorattributesdemoimperative;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
